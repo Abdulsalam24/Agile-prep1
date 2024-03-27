@@ -470,7 +470,7 @@ function Agile() {
         <div className="Advisor-Container">
           <div className="Advisor-text">
             <h3>
-              Course <span className="Advisor-span">Trainer</span>
+              Course Trainer
             </h3>
           </div>
           <div className="Venkatesh-Container">
@@ -701,7 +701,7 @@ function Agile() {
             </button>
             <div className="Click-here">
               <Link to="https://agilepreppro.com/">
-                <p>To know more about the website click here </p>
+                <p>Click here to visit the website</p>
                 <MdOutlineKeyboardDoubleArrowRight className="here-icon" />
               </Link>
             </div>
