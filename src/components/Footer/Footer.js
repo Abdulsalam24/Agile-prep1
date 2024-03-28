@@ -9,6 +9,8 @@ import { IoLogoAndroid } from "react-icons/io";
 import { FaApple } from "react-icons/fa6";
 import { HashLink as Link } from 'react-router-hash-link';
 
+
+
 function Footer() {
   return (
     <div>
